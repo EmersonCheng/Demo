@@ -6,7 +6,7 @@ method 1: using QT painting system
 method 2: using QLabel
 
 
-```c++ {.line-numbers}
+```c++
 #inclde <stdio.h>
 // for test
 int main()
